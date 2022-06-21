@@ -1,6 +1,5 @@
 # XXX_in_biotech
-#### [Link to Blog Post](https://www.codonmag.com/p/
-xxx-biotech) on Substack.
+#### [Link to Blog Post](https://www.codonmag.com/p/xxx-biotech) on Substack.
 A search for biotechnology papers on PubMed Central, and whether they contain placeholder text.
 
 **To repeat my analysis**: Download the `main_scripts.ipynb` Jupyter notebook and execute the code cells. This notebook uses the `requests` and `json` libraries to fetch full-texts of explicitly the _methods_ and _discussion_ sections from papers. There were more than 8,800 results for the years 2018 through 2022.
