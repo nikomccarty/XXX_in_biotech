@@ -7,4 +7,4 @@ A search for biotechnology papers on PubMed Central, and whether they contain pl
 
 I also ran searches for phrases like "TK" (which means _to come_ in journalism parlance), "Lorem" and others. None of these phrases seem to have turned up legitimate 'hits,' though I didn't check all of the papers closely.
 
-Please contact niko [at] newscience.org with questions.
+Please contact niko@newscience.org with questions.
